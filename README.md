@@ -1,4 +1,4 @@
-# Beans Harmonized
+# Clasic Harmonized
 
 ### Inspired by Netbeans theme and harmozined theme.
 

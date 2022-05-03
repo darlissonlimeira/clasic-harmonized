@@ -1,5 +1,5 @@
 # Clasic Harmonized
 
-### Inspired by Netbeans theme and harmozined theme.
+### Inspired by netbeans theme, laravel theme(clasic) and harmozined theme.
 
 **Enjoy!**

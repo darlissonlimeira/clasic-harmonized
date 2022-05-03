@@ -1,39 +1,39 @@
 {
-  "name": "clasic-harmonized-theme",
-  "displayName": "Clasic Harmonized",
-  "description": "Inspired by harmozined theme.",
-  "version": "0.0.1",
-  "author": {
-    "name": "Darlisson Limeira"
-  },
-  "engines": {
-    "vscode": "^1.66.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "icon": "icon.png",
-  "homepage": "README.md",
-  "keywords": [
-    "light",
-    "solarized",
-    "harmonized",
-    "minimalist",
-    "vs code",
-    "vscode"
-  ],
-  "publisher": "drkcode",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Clasic Harmonized",
-        "uiTheme": "vs",
-        "path": "./themes/clasic-theme.json"
-      }
-    ]
-  }
+    "name": "clasic-harmonized-theme",
+    "displayName": "Clasic Harmonized",
+    "description": "Inspired by harmozined theme.",
+    "version": "0.0.3",
+    "author": {
+        "name": "Darlisson Limeira"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "icon": "icon.png",
+    "homepage": "README.md",
+    "keywords": [
+        "light",
+        "solarized",
+        "harmonized",
+        "minimalist",
+        "vs code",
+        "vscode"
+    ],
+    "publisher": "drkcode",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Clasic Harmonized",
+                "uiTheme": "vs",
+                "path": "./themes/clasic-theme.json"
+            }
+        ]
+    }
 }

@@ -1,8 +1,8 @@
 {
     "name": "clasic-harmonized-theme",
     "displayName": "Clasic Harmonized",
-    "description": "Inspired by harmozined theme.",
-    "version": "0.0.3",
+    "description": "Inspired by harmonized and laravel clasic themes.",
+    "version": "0.0.5",
     "author": {
         "name": "Darlisson Limeira"
     },

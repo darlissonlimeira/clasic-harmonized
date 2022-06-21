@@ -6,7 +6,7 @@
         {
             "scope": [""],
             "settings": {
-                "foreground": "#444855"
+                "foreground": "#4f5463"
             }
         },
         {
@@ -39,6 +39,12 @@
             }
         },
         {
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#878787"
+            }
+        },
+        {
             "scope": ["constant.numeric", "constant.language.boolean"],
             "settings": {
                 "foreground": "#0086B3"
@@ -53,13 +59,13 @@
         {
             "scope": ["variable.parameter"],
             "settings": {
-                "foreground": "#444855"
+                "foreground": "#71788e"
             }
         },
         {
             "scope": ["variable.other.property"],
             "settings": {
-                "foreground": "#4987c9"
+                "foreground": "#646a7d"
             }
         },
         {
@@ -71,7 +77,7 @@
                 "meta.tag.sgml punctuation.definition.tag.html"
             ],
             "settings": {
-                "foreground": "#444855"
+                "foreground": "#4f5463"
             }
         },
         {
@@ -85,14 +91,14 @@
                 "punctuation.definition.entity"
             ],
             "settings": {
-                "foreground": "#444855"
+                "foreground": "#4f5463"
             }
         },
         {
             "name": "Tag Names: h1, p, div...",
             "scope": ["entity.name.tag"],
             "settings": {
-                "foreground": "#2380c2"
+                "foreground": "#800080"
             }
         },
         {
@@ -102,7 +108,7 @@
                 "entity.other.attribute-name.html"
             ],
             "settings": {
-                "foreground": "#cb4b16"
+                "foreground": "#cf7317"
             }
         },
         {
@@ -232,7 +238,7 @@
             "name": "key json",
             "scope": ["support.type.property-name.json"],
             "settings": {
-                "foreground": "#444855"
+                "foreground": "#4f5463"
             }
         },
         {
@@ -583,7 +589,7 @@
                 "entity.name.tag.style.html.vue"
             ],
             "settings": {
-                "foreground": "#444855"
+                "foreground": "#4f5463"
             }
         }
     ]
